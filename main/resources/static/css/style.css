@@ -1,0 +1,17 @@
+.main {
+	display: flex;
+	justify-content: space-around;
+}
+
+.date {
+	color: #0080ff;
+}
+
+.time {
+	color: #008080;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+}
